@@ -10,5 +10,3 @@ The goal of this task is to set up your **first mobile application** using the *
 ### 1. Navigate to Project Directory
 ```bash
 cd prodev-mobile-setup
-
-reset project
