@@ -8,6 +8,5 @@ The goal of this task is to set up your **first mobile application** using the *
 ## 🛠️ Steps Followed
 
 ### 1. Navigate to Project Directory
-Moved into the parent project directory:
 ```bash
 cd prodev-mobile-setup
